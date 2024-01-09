@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskApp9", "TaskApp9\TaskApp9.csproj", "{42F537C5-2475-4018-A7D9-72FDD207C0A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product.Core", "Product.Core\Product.Core.csproj", "{DEDC493C-A14D-4DB9-B3BA-B195AC020890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42F537C5-2475-4018-A7D9-72FDD207C0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F537C5-2475-4018-A7D9-72FDD207C0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F537C5-2475-4018-A7D9-72FDD207C0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F537C5-2475-4018-A7D9-72FDD207C0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDC493C-A14D-4DB9-B3BA-B195AC020890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDC493C-A14D-4DB9-B3BA-B195AC020890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDC493C-A14D-4DB9-B3BA-B195AC020890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDC493C-A14D-4DB9-B3BA-B195AC020890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C64E7EB-DB7C-45DF-B099-11DE34EC3B9C}
+	EndGlobalSection
+EndGlobal
